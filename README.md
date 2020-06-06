@@ -2,7 +2,7 @@
 Se busca evaluar secuencias de microbioma asociadas a secuencias de RADseq del género Dendroctonus. 
 Para evaluar la capacidad de recuperar información genética de comunidades de microorganismos asociados a los escarabajos,
 
-Los datos de RADseq empleados para el escaneo de la diversidad microbiológica dentro del género Dendroctonus provienen de la publicación de Godefroid et al de 2019, realizada con el fin de proponer una nueva filogenia incluyendo diecisiete especies de este género (NCBI Bioproject: PRJNA530572), empleamos el pipeline iPyrad v.0.7.28 (Eaton, 2014).
+Los datos de RADseq empleados para el escaneo de la diversidad microbiológica dentro del género Dendroctonus provienen de la publicación de [Godefroid et al de 2019](https://www.sciencedirect.com/science/article/abs/pii/S1055790319302441), realizada con el fin de proponer una nueva filogenia incluyendo diecisiete especies de este género (NCBI Bioproject: PRJNA530572), empleamos el pipeline iPyrad v.0.7.28 (Eaton, 2014).
 
 Se realizaron tres aproximaciones para el agrupamiento de loci compartidos entre las muestras analizadas:  ensamble de novo, ensamble con referencia y de novo - menos referencia.
 
