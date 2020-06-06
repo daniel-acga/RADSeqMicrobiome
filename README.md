@@ -1,4 +1,4 @@
-# Proyecto-2020
+# Metagenomics-RAD-2020
 Se busca evaluar secuencias de microbioma asociadas a secuencias de RADseq del género Dendroctonus. 
 Para evaluar la capacidad de recuperar información genética de comunidades de microorganismos asociados a los escarabajos,
 
