@@ -24,7 +24,7 @@ Tras no obtener resultados satisfactorios al realizar este último paso con la h
 
 Disponibilidad de los ensambles en el siguiente enlace:
 
-Cada ensamble está contenido en un directorio en formato loci y fasta. Además en este se encuentran también los estadísticos y parámetros del ensamble.
+Cada ensamble está contenido en un directorio en formato loci y fasta. Además en este se encuentran también los estadísticos, los parámetros del ensamble y una tabla que hace el conteo de los reads con los que empieza el ensamble.
 
 
 https://drive.google.com/drive/folders/1tdBvzSGAc31RCNSy1-ugs9rbh54g-a3L?usp=sharing
