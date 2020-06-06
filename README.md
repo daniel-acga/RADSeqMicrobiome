@@ -4,6 +4,8 @@ Para evaluar la capacidad de recuperar información genética de comunidades de 
 
 Los datos de RADseq empleados para el escaneo de la diversidad microbiológica dentro del género Dendroctonus provienen de la publicación de [Godefroid et al de 2019](https://www.sciencedirect.com/science/article/abs/pii/S1055790319302441), realizada con el fin de proponer una nueva filogenia incluyendo diecisiete especies de este género (NCBI Bioproject: PRJNA530572), empleamos el pipeline iPyrad v.0.7.28 (Eaton, 2014).
 
+
+## Methods
 Se realizaron tres aproximaciones para el agrupamiento de loci compartidos entre las muestras analizadas:  ensamble de novo, ensamble con referencia y de novo - menos referencia.
 
 El primer tipo de ensamble (de novo) genera clusters mediante el uso de un algoritmo de agrupación global de alineación, recurriendo al programa USEARCH (Edgar, 2010), que permite la incorporación de variaciones indels al identificar la homología. 
