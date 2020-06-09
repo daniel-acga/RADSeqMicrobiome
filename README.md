@@ -7,7 +7,7 @@ RADseq data used for scanning microbiological diversity within the genus Dendroc
 
 Scrpits described bellow are available in [bin](linkdeldirectory), associated data in [data](https://github.com/daniel-acga/Metagenomics-RAD-Insect-/blob/master/bin/Holmes%202018%20R%20blast) and results in [output](link).
 
-Genome assemblies (.loci and fasta files) can be found [here](https://drive.google.com/drive/folders/1tdBvzSGAc31RCNSy1-ugs9rbh54g-a3L?usp=sharingin). Each assembly is contained in a directory in loci and fasta format. Alongside, there are also statistics, assembly parameters and a table that counts the reads with which the assembly begins.
+Genome assemblies (.loci and fasta files) can be found [here](https://drive.google.com/drive/folders/1tdBvzSGAc31RCNSy1-ugs9rbh54g-a3L?usp=sharingin). Each assembly is contained in a directory in loci and fasta format. Alongside, there are also the stats, assembly parameters and a table file that counts the reads with which the assembly begins.
 
 
 
