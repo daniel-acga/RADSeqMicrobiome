@@ -3,7 +3,7 @@
 
 We are seeking to evaluate microbiome sequences associated with RADseq sequences of bark beetles of the genus Dendroctonu to assess the ability to retrieve genetic information from communities of microorganisms associated with beetles.
 
-RADseq data used for scanning microbiological diversity within the genus Dendroctonus comes from the publication of [Godefroid et al de 2019](https://www.sciencedirect.com/science/article/abs/pii/S1055790319302441), generated in order to propose a new phylogeny including seventeen species of this genus [NCBI Bioproject: PRJNA530572](https://www.ncbi.nlm.nih.gov/bioproject/?term=txid77165[Organism:noexp]) We use the iPyrad v.0.7 pipeline .28 [Eaton, 2014](https://academic.oup.com/bioinformatics/article/30/13/1844/2422183).
+RADseq data used for scanning microbiological diversity within the genus Dendroctonus comes from the publication of [Godefroid et al de 2019](https://www.sciencedirect.com/science/article/abs/pii/S1055790319302441), generated in order to propose a new phylogeny including seventeen species of this genus [NCBI Bioproject: PRJNA530572](https://www.ncbi.nlm.nih.gov/bioproject/?term=txid77165[Organism:noexp]) We use the [iPyrad v.0.7 pipeline .28] (https://ipyrad.readthedocs.io/en/latest/)  [Eaton, 2014](https://academic.oup.com/bioinformatics/article/30/13/1844/2422183).
 
 Scrpits described bellow are available in [bin](linkdeldirectory), associated data in [data](link) and results in [output].
 
