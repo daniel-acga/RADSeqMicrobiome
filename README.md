@@ -1,4 +1,4 @@
-# Metagenomics-RAD-Insect>
+# RADSeq-Microbiome
 
 
 We are seeking to evaluate microbiome sequences associated with RADseq sequences of bark beetles of the genus Dendroctonus to assess the ability to retrieve genetic information from communities of microorganisms associated with beetles.
