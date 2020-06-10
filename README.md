@@ -1,7 +1,7 @@
-# Metagenomics-RAD Dendroctonus>
+# Metagenomics-RAD-Insect>
 
 
-We are seeking to evaluate microbiome sequences associated with RADseq sequences of bark beetles of the genus Dendroctonu to assess the ability to retrieve genetic information from communities of microorganisms associated with beetles.
+We are seeking to evaluate microbiome sequences associated with RADseq sequences of bark beetles of the genus Dendroctonus to assess the ability to retrieve genetic information from communities of microorganisms associated with beetles.
 
 RADseq data used for scanning microbiological diversity within the genus Dendroctonus comes from the publication of [Godefroid et al de 2019](https://www.sciencedirect.com/science/article/abs/pii/S1055790319302441), generated in order to propose a new phylogeny including seventeen species of this genus [NCBI Bioproject: PRJNA530572](https://www.ncbi.nlm.nih.gov/bioproject/?term=txid77165[Organism:noexp]) We use the iPyrad v.0.7 pipeline .28 [Eaton & Overcast, 2020](https://academic.oup.com/bioinformatics/article-abstract/36/8/2592/5697088).
 
