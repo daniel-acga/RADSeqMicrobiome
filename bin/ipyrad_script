@@ -1,0 +1,11 @@
+##This script was written to be ran inside UNAM's cluster.
+
+#BSUB -q q_hpc
+#BSUB -n 16
+#BSUB -m g3_b
+#BSUB -R "span[hosts=1]"
+#BSUB -eo dendroctonus01.err
+#BSUB -oo dendroctonus01.out
+
+module load  miniconda/4.3.18
+ipyrad -p ../bin/params-.txt -s123456
