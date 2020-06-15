@@ -1,7 +1,7 @@
 # Scripts description 
 
 
-We made following the ipyrad default pipeline modifying only the next parameters:
+We followed the ipyrad default pipeline modifying only the next parameters:
 
 
 1. clustering treeshold: 0,97 and 0,95 
