@@ -1,7 +1,7 @@
 # Scripts description 
 
 
-We followed the [ipyrad_script](link) which corresponds to the default pipeline from the program modifying the next parameters from the [params-.txt file](link):
+We followed the [ipyrad_script](https://github.com/daniel-acga/RADSeqMicrobiome/blob/master/bin/ipyrad_script) which corresponds to the default pipeline from the program modifying the next parameters from the [params-.txt file](https://github.com/daniel-acga/RADSeqMicrobiome/blob/master/bin/params-.txt):
 
 
 1. clustering treeshold: 0,97 and 0,95 
