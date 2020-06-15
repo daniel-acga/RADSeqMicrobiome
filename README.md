@@ -21,7 +21,7 @@ Reads were assembled using two clustering threshold values (0.97 and 0.95) that 
 1. using a fungi reference genome
 1. using an insect reference genome as filter
 
-De novo assembly generates clusters by using a global alignment grouping algorithm, in the USEARCH program [Edgar, 2010] (https://www.osti.gov/biblio/1137186), that allows the incorporation of indel variation to identify homology. 
+De novo assembly generates clusters by using a global alignment grouping algorithm, in the USEARCH program [Edgar, 2010](https://www.osti.gov/biblio/1137186), that allows the incorporation of indel variation to identify homology. 
 
 We selected reads based on the fungal reference genome of Grossmania clavigera [NCBI BioProject: PRJNA39837 DiGuistini et al, 2011](https://www.pnas.org/content/108/6/2504.short) that is a common symbiont of this bark beetle genus. 
 
