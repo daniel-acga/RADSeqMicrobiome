@@ -27,8 +27,7 @@ We selected reads based on the fungal reference genome of Grossmania clavigera [
 
 Finally, we used the reference genome of Dendroctonus ponderaseae  [NCBI BioProjectI: PRJNA162621](https://www.ncbi.nlm.nih.gov/bioproject/162621), [Keeling et al, 2013](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-3-r27) to retain only the reads that mismatches the reference. This approach was used to analyze: 1) three samples of Dendroctonus ponderaseae; 2) all samples of the different species of Dendroctonus from the dataset.
 
-
-ADD BLAST METODOLOGY
+We run discontinous megablast search with the goal of retrieving taxids used with the R package, taxize to complete the taxonomic assignation.
 
 blastn -task dc-megablast -db nt -query [your header].fa -outfmt "6 qseqid sseqid staxids sskingdoms pident mismatch" -out [your header]_out.txt -num_threads 2  -max_target_seqs 20
 
