@@ -216,4 +216,3 @@ for(i in 1:length(locus.IDs)){
 write.table(tax, paste("./",samp,"_tax.txt"))
 
 
-warnings()
